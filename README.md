@@ -1,0 +1,2 @@
+# Foundation-Model-Embeddings-vs.-Fine-Tuning-CNNs-for-Image-Classification-End-to-end-Deployment
+We compare the performance of a DINOv2 foundation model (used as a feature extractor for high level embeddings) against an customly fine-tuned ResNet34 (DressNet) model for fashion image classification. The best-performing model is deployed as an interactive Hugging Face application, demonstrating a complete research-to-production pipeline.
