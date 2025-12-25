@@ -1,0 +1,8 @@
+torch
+torchvision
+segmentation-models-pytorch
+timm
+gradio
+pillow
+numpy
+grad-cam
